@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Mayuri!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,13 +11,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a final-year Computer Engineering graduate student at New York University.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are bridging vision and language modalities and Self-Supervised Learning!
 
 📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📽️ I am also interested in assisting others on their path in Machine Learning and academia.
 
 # Selected Experience
 
