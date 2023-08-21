@@ -27,29 +27,34 @@ redirect_from:
 
 ❤️‍🔥 I'm passionate about delivering impactful solutions to complex challenges by leveraging technical expertise and systems thinking.
 
-</div>
+# Work Experience<br><br>
 
-# Work Experience
+## 🤖 Applied Data Science Intern<br><br> 
+### LOCOMeX Inc. | NY, NY | Jun 2023 - Aug 2023<br><br>
+I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.<br><br>
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.<br><br>
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+## 📜 Graduate Research Assistant<br><br>
+### NYU Tandon School of Engineering | Brooklyn, NY | Feb 2023 - May 2023<br><br>
+I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.<br><br>
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.<br><br>
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).<br><br>
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
-
-## 👨🏻‍🔬 Professional Experience
+## 👨🏻‍🔬 Software Engineer<br><br>
+### Dover Corporation | Bangalore, IN | Jan 2020 - July 2022<br><br>
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I work on dynamic traffic flow forecasting using Graph Neural Networks.
+There I work on dynamic traffic flow forecasting using Graph Neural Networks.<br><br>
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+## 📚 Research Contributions<br><br>
+To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.<br><br>
 
+# Education
+
+## M.S. Computer Engineering<br><br>
+</div>
 
 
 
