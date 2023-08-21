@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-
+!{: .align-right width="50px"}
 📚 I'm a final-year Computer Engineering graduate student at New York University, set to graduate in May 2024.
 
 👩🏽‍💻 I've professionally served as a Software Engineer at a Fortune 500 company, and more recently as an Applied Data Scientist at an ESG-focused supply chain and procurement startup in NY.
