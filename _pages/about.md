@@ -11,15 +11,15 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final-year Computer Engineering graduate student at New York University.
+📚 I'm a final-year Computer Engineering graduate student at New York University, set to graduate in May 2024.
 
-🔬 My research interests are bridging vision and language modalities and Self-Supervised Learning!
+👩🏽‍💻 I've professionally served as a Software Engineer at a Fortune 500 company, and more recently as an Applied Data Scientist at an ESG-focused supply chain and procurement startup in NY.
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+💻 I'm skilled in applying Python programming, NLP techniques,  data analysis, visualization, and extraction to bring product visions to life. My proficiency extends to scalable software development, as well as crafting Salesforce CRM solutions. Additionally, I am adept at delving into research endeavors and have made meaningful contributions to an open-source project.
 
-📽️ I am also interested in assisting others on their path in Machine Learning and academia.
+❤️‍🔥 I'm passionate about delivering impactful solutions to complex challenges by leveraging technical expertise and systems thinking.
 
-# Selected Experience
+# Work Experience
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
