@@ -17,6 +17,6 @@ Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, 
 
 Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
 
-#Affiliations
+# Affiliations
 
 
