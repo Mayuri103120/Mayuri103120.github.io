@@ -84,7 +84,7 @@ author:
   avatar           : "ProfilePic1.jpg"
   bio              : "Applied Data Scientist and a Software Engineer"
   location         : "New York, New York"
-  employer         : "LOCOMeX Inc."
+  #employer         : "LOCOMeX Inc."
   pubmed           : 
   googlescholar    : 
   email            : "mayuribupadhyaya@gmail.com"
