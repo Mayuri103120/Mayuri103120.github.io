@@ -5,13 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 ## New York University 
-**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
+**M.S. Computer Engineering | CGPA: 3.78/ 4.0 | New York, NY | Sep 2022 - May 2024**
 
 Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, Intro to Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Intro to Java, Real-Time Embedded Systems, Applied Matrix Theory.
 ## R. V. College of Engineering
-**B.E. Electronics & Telecommunication Engineering | Bangalore, IN | Aug 2016 - Jul 2020**
+**B.E. Electronics & Telecommunication Engineering | CGPA: 3.44/ 4.0 | Bangalore, IN | Aug 2016 - Jul 2020**
 
-Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
+Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
 # 📃 Affiliations
 ## AnitaB.org | *Scholar*
 Awarded with a full scholarship to attend Grace Hopper Celebration 2023 in person in Orlando, FL along with a year of AnitaB.org Premium Membership.
