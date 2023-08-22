@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "🎓 Education"
 permalink: /education/
 author_profile: true
 ---
-# 🎓 Education
 ## New York University 
 **M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
 
