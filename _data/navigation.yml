@@ -7,8 +7,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   
-  - title: "Publications"
-    url: /publications/
+  - title: "Education and Affiliations"
+    url: /education/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
