@@ -28,9 +28,3 @@ redirect_from:
 ❤️‍🔥 I'm passionate about delivering impactful solutions to complex challenges by leveraging technical expertise and systems thinking.<br><br>
 
 </div>
-
-## R. V. College of Engineering
-**B.E. Electronics & Telecommunication Engineering | Bangalore, IN | Aug 2016 - Jul 2020**
-
-Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
-
