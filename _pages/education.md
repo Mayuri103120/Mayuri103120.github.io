@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # 🎓 Education
-
 ## New York University 
 **M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
 
@@ -18,7 +17,6 @@ Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, 
 Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
 
 # 📃 Affiliations
-
 ## AnitaB.org | *Scholar*
 Awarded with a full scholarship to attend Grace Hopper Celebration 2023 in person in Orlando, FL along with a year of AnitaB.org Premium Membership.
 
