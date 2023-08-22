@@ -18,5 +18,12 @@ During my tenure, I contributed to an Open-Source initiative funded by NSF grant
 **Dover Corporation | Bangalore, IN | Jan 2020 - July 2022**
 
 I played a pivotal role in digitizing CRM platforms across 7 operating companies within Dover Corporation by implementing Salesforce Sales and Service cloud solutions.
+Being a key contributor within a small, dedicated team of three, I enabled the digital transformation of CRM platforms across 7 operating companies at Dover Corporation by implementing Salesforce Sales and Service cloud solutions. My efforts resulted in significant cost avoidance and earned me recognition through Dover Summit and Quartz awards, reflecting the trust and confidence of company leadership.
+
+
+
+
+
+
 
 
