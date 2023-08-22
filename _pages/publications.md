@@ -1,16 +1,22 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Education and Affiliations"
+permalink: /
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Education
 
-{% include base_path %}
+## New York University 
+**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, Intro to Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Intro to Java, Real-Time Embedded Systems, Applied Matrix Theory.
+
+## R. V. College of Engineering
+**B.E. Electronics & Telecommunication Engineering | Bangalore, IN | Aug 2016 - Jul 2020**
+
+Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
+
+#Affiliations
+
+
