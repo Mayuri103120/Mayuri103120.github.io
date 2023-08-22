@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education and Affiliations"
-permalink: /
+permalink: /Education and Affiliations/
 author_profile: true
 ---
 
