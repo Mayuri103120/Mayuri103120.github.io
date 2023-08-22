@@ -21,7 +21,7 @@ redirect_from:
 
 📚 I'm a final-year Computer Engineering graduate student at New York University, set to graduate in May 2024.<br><br>
 
-👩🏽‍💻 I've professionally served as a Software Engineer at a Fortune 500 company and more recently as an Applied Data Scientist at an ESG-focused supply chain and procurement startup in NY.<br><br>
+👩🏻‍💻 I've professionally served as a Software Engineer at a Fortune 500 company and more recently as an Applied Data Scientist at an ESG-focused supply chain and procurement startup in NY.<br><br>
 
 💻 I'm skilled in applying Python programming, NLP techniques, data analysis, visualization, and extraction to bring product visions to life. My proficiency extends to scalable software development and crafting Salesforce CRM solutions. Additionally, I am adept at delving into research endeavors and have made meaningful contributions to an open-source project.<br><br>
 
@@ -41,18 +41,20 @@ I took the lead in end-to-end project development and made active contributions 
 
 During my tenure, I contributed to an Open-Source initiative funded by NSF grant #2231984. Collaborating with Dr. Fraida Fund, I developed advanced lab experiments for teaching computer networks and security to nearly 300 graduate students each semester. My work gained recognition and I was invited to present at two prestigious research forums. For more details about my contribution, explore [here](https://teaching-on-testbeds.github.io/resources/).
 
-## 👩🏽‍💻 Software Engineer
+## 👩🏻‍💻 Software Engineer
 **Dover Corporation | Bangalore, IN | Jan 2020 - July 2022**
 
 I played a pivotal role in digitizing CRM platforms across 7 operating companies within Dover Corporation by implementing Salesforce Sales and Service cloud solutions.
 
 # Education
 
-## M.S. Computer Engineering
-**New York University | New York, NY | Sep 2022 - May 2024**
+## New York University 
+**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
 
-Rele
+Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, Intro to Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Intro to Java, Real-Time Embedded Systems, Applied Matrix Theory.
 
-## B.E. Electronics & Telecommunication Engineering
-**R. V. College of Engineering | Bangalore, IN | Aug 2016 - Jul 2020**
+## R. V. College of Engineering
+**B.E. Electronics & Telecommunication Engineering | Bangalore, IN | Aug 2016 - Jul 2020**
+
+Relevant Coursework: Data Structures and Algorithms, Digital Signal & Image Processing, Computer Networks, Intro to Web Development.
 
