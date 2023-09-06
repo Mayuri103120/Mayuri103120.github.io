@@ -5,9 +5,9 @@ permalink: /education/
 author_profile: true
 ---
 ## New York University 
-**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024**
+**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024 | GPA: 3.78**
 
-Coursework: Intro to Machine Learning, Computational Statistics, Deep Learning, Intro to Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Intro to Java, Real-Time Embedded Systems, Applied Matrix Theory.
+Coursework: Machine Learning, Computational Statistics, Deep Learning, Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Network Security, Real-Time Embedded Systems, Applied Matrix Theory.
 
 Awards: MLH Best Use of Matlab at HackNYU, Graduate Merit Scholarship.
 
