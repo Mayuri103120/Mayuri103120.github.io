@@ -20,7 +20,7 @@ Awards: 2-times state-level Indian contemporary dance winner.
 
 # 📃 Affiliations
 ## AnitaB.org | *Scholar*
-Awarded with a full scholarship by the Tandon Dean's office to attend Grace Hopper Celebration 2023 in person in Orlando, FL along with a year of AnitaB.org Premium Membership.
+Awarded with a full scholarship by the NYU Tandon Dean's office to attend Grace Hopper Celebration 2023 in person in Orlando, FL along with a year of AnitaB.org Premium Membership.
 ## Girls Who Code | *Member* 
 Selected for GWC's career readiness program with Pluralsight and technical interview prep with U.S. Bank leaders and engineers.
 ## Rewriting The Code | *Member*
