@@ -4,7 +4,12 @@ title: "👩🏻‍💻 Work Experience"
 permalink: /work-experience/
 author_profile: true
 ---
-## Applied Data Science Intern
+## Graduate Teaching Assistant
+**LOCOMeX Inc. | New York, NY | Sep 2023 - Present**
+
+Conducted office hours and graded assignments/labs for graduate-level courses in Internet Architecture and Protocols and Real-time Embedded Systems, each with a class strength of 250+ students.
+
+## Machine Learning Intern
 **LOCOMeX Inc. | New York, NY | Jun 2023 - Aug 2023**
 
 I led an end-to-end project development while actively contributing to a new feature on the Locomex Supplier portal: the Win-Rate Optimizer. This ML-driven tool empowers suppliers to enhance their risk profile, enabling them to secure more ESG-focused deals. For more details about my contribution, please visit [here](https://locomexgroup.com/Best-Supplier-Diversity-Program-Management/).
