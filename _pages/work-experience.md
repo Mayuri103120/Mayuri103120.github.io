@@ -5,7 +5,7 @@ permalink: /work-experience/
 author_profile: true
 ---
 ## Graduate Teaching Assistant
-**LOCOMeX Inc. | New York, NY | Sep 2023 - Present**
+**NYU Tandon School of Engineering | Brooklyn, NY | Sep 2023 - Present**
 
 Conducted office hours and graded assignments/labs for graduate-level courses in Internet Architecture and Protocols and Real-time Embedded Systems, each with a class strength of 250+ students.
 
