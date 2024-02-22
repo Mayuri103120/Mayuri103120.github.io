@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 ## New York University 
-**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024 | GPA: 3.78**
+**M.S. Computer Engineering | New York, NY | Sep 2022 - May 2024 | GPA: 3.85**
 
 Coursework: Machine Learning, Computational Statistics, Deep Learning, Systems Engineering, Computing Systems & Architecture, Internet Architecture & Protocols, Network Security, Real-Time Embedded Systems, Applied Matrix Theory, Organizational Behaviour.
 
